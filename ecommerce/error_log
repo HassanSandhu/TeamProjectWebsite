@@ -1,0 +1,118 @@
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 88
+[15-Jun-2017 15:45:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 90
+[15-Jun-2017 15:45:25 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:45:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:45:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:45:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 88
+[15-Jun-2017 15:45:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 90
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 294
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 296
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 499
+[15-Jun-2017 15:45:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 501
+[15-Jun-2017 15:46:06 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:46:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:46:06 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:46:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:46:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:46:06 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:46:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:46:19 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:46:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:46:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:46:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:46:19 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:46:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:46:19 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:46:36 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:46:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:46:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:46:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:46:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:46:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:46:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:47:14 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:47:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:47:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:47:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:47:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:47:14 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:47:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 294
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 296
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 499
+[15-Jun-2017 15:47:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 501
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 3
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 50
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 27
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 88
+[15-Jun-2017 15:47:27 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 90
+[15-Jun-2017 15:52:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:52:23 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:52:23 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:52:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 90
+[15-Jun-2017 15:52:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:52:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:52:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:52:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 90
+[15-Jun-2017 15:52:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:52:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:52:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:52:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 90
+[15-Jun-2017 15:53:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 52
+[15-Jun-2017 15:53:59 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:53:59 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 29
+[15-Jun-2017 15:53:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 90
+[15-Jun-2017 17:44:28 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[15-Jun-2017 17:44:28 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[15-Jun-2017 17:44:36 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[15-Jun-2017 17:44:36 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[15-Jun-2017 20:37:53 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[15-Jun-2017 20:37:53 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[15-Jun-2017 20:37:59 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[15-Jun-2017 20:37:59 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[15-Jun-2017 20:38:12 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[15-Jun-2017 20:38:12 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[15-Jun-2017 20:51:17 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[15-Jun-2017 20:51:17 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[16-Jun-2017 04:06:59 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/povenaco/erstechno.com/haidertesting/functions/functions.php on line 296
+[16-Jun-2017 23:15:53 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[16-Jun-2017 23:15:53 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[16-Jun-2017 23:15:57 America/New_York] PHP Notice:  Undefined index: product_qty in /home/povenaco/erstechno.com/haidertesting/details.php on line 443
+[16-Jun-2017 23:15:57 America/New_York] PHP Notice:  Undefined index: product_size in /home/povenaco/erstechno.com/haidertesting/details.php on line 445
+[17-Jun-2017 13:36:54 America/New_York] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'povenaco_ersadmin'@'localhost' to database 'povenaco_ecom_mad' in /home/povenaco/erstechno.com/haidertesting/record.php on line 10

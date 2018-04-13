@@ -1,0 +1,9 @@
+[15-Jun-2017 15:47:17 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/povenaco/erstechno.com/haidertesting/customer/functions/functions.php on line 3
+[15-Jun-2017 15:47:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/customer/functions/functions.php on line 49
+[15-Jun-2017 15:47:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/customer/functions/functions.php on line 51
+[15-Jun-2017 15:47:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/customer/functions/functions.php on line 26
+[15-Jun-2017 15:47:17 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/customer/functions/functions.php on line 28
+[15-Jun-2017 15:47:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/povenaco/erstechno.com/haidertesting/customer/functions/functions.php on line 26
+[15-Jun-2017 15:47:17 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/povenaco/erstechno.com/haidertesting/customer/functions/functions.php on line 28
+[15-Jun-2017 16:13:21 America/New_York] PHP Notice:  Undefined variable: order_id in /home/povenaco/erstechno.com/haidertesting/customer/confirm.php on line 329
+[15-Jun-2017 20:52:18 America/New_York] PHP Notice:  Undefined variable: order_id in /home/povenaco/erstechno.com/haidertesting/customer/confirm.php on line 329
